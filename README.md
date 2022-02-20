@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub;Checkout+my+Projects!+:D)](https://git.io/typing-svg)
 
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
